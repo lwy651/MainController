@@ -1,12 +1,21 @@
 PODS:
   - CocoaAsyncSocket (7.6.0)
+  - Masonry (1.0.2)
+  - MMPopupView (1.7.2):
+    - Masonry
+  - SnapKit (3.2.0)
 
 DEPENDENCIES:
   - CocoaAsyncSocket
+  - MMPopupView
+  - SnapKit (~> 3.2.0)
 
 SPEC CHECKSUMS:
   CocoaAsyncSocket: b9d5589f07baf9de8f34cc25abd4fcba28f13805
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MMPopupView: fe1dd010824029dfb632fdf1a531db5dd5386020
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
 
-PODFILE CHECKSUM: f9a92362b67d1f67b34f725ef7488cbe450b2170
+PODFILE CHECKSUM: 5bd4a9c615a58bc90b41e429b9ca4455545a6efc
 
 COCOAPODS: 1.2.0

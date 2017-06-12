@@ -17,6 +17,7 @@ class MySocket:NSObject{
         super.init()
         connectServer()
     }
+    //开始连接
     func connectServer() {
         client_socket = GCDAsyncSocket(delegate: self, delegateQueue: DispatchQueue.main)
         do {

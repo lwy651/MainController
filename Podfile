@@ -7,6 +7,8 @@ target 'MainController' do
 
   # Pods for MainController
   pod 'CocoaAsyncSocket'
+  pod 'SnapKit', '~> 3.2.0'
+  pod 'MMPopupView'
 
   target 'MainControllerTests' do
     inherit! :search_paths

@@ -9,6 +9,16 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>MMPopupView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Masonry.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-MainController.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -24,9 +34,19 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SnapKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0555785448AEEA853F555A59A0E100A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>095C4098E4FB93CD6AA34E32E210CAF5</key>
 		<dict>
 			<key>primary</key>
@@ -37,12 +57,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8F1187BED9628285B1579E645ACF0C16</key>
+		<key>7F18372C9538709D44C59FD136C622F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1B2168B8DD91555EBB1722C8D6D847A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>AC0D2D2B4EE7C873431AB3502859CA60</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D52144DE9D7255DE912490FF5A806573</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -8,6 +8,7 @@
 
 import UIKit
 import CocoaAsyncSocket
+import MMPopupView
 
 class ViewController: UIViewController{
     @IBOutlet weak var SendBtn: UIButton!
@@ -18,9 +19,6 @@ class ViewController: UIViewController{
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        
-        //let s2 = MySocket.socketInstance
-        //print(s1===s2)
         
     }
 
